@@ -1,0 +1,77 @@
+.background{
+    width: 100%;
+    height: 100vh;
+    background-image: url(lobby.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+}
+
+.p1{
+    font-size: 50px;    
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    color: white;
+    margin-left: 550px;
+    margin-top: -3px;
+    position: absolute;
+}
+
+.img1{
+    height: 200px;
+    margin-left: 650px;
+    position: absolute;
+    margin-top: 310px;
+
+}
+.img2{
+    height: 250px;
+    margin-left: 480px;
+    position: absolute;
+    margin-top:305px ;
+}
+.img3{
+    height: 200px;
+    margin-left: 800px;
+    position: absolute;
+    margin-top: 330px;
+}
+
+.btn2{
+    width: 150px;
+    height: 50px;
+    font-size: 40px;
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    border-width: 3px;
+    border-radius: 5px;
+    margin-left: 1200px;
+    margin-top: 600px;
+    position: absolute;
+
+}
+
+.btn2:hover{
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    transition-duration:1s;
+}
+.a2{
+    font-size: 40px;
+    color: white;
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 10px;
+
+}
+
+.a6{
+    font-size: 40px;
+    margin-left: 10px;
+    margin-top: 300px;
+    position: absolute;
+    color: white;
+}
+    
